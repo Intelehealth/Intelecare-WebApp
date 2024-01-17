@@ -1,0 +1,5 @@
+/node_modules
+**/settings.json
+**/license
+*.zip
+/config/config.json
